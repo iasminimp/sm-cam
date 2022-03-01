@@ -1,0 +1,38 @@
+
+Lembrete importante: ao utilizar qualquer imagem/ vídeo referêncie a empresa que fornece as imagens (Gurisat, para saber mais do trabalho dessa empresa acesse o site: https://www.gurisat.com.br/ )
+
+link camera sao mateus: https://gsi.gurisat.com.br/embed/583857/undefined/undefined/centro-sm?autoplay=true&sound=false
+
+link camera centro guriri: https://gsi.gurisat.com.br/embed/564964/undefined/undefined/praca-centro?autoplay=true&sound=true
+
+link camera ponte - guriri: https://gsi.gurisat.com.br/embed/565380/undefined/undefined/camera-ponte?autoplay=true&sound=true
+
+link camera guriri - centro: link camera guriri - centro: https://gsi.gurisat.com.br/embed/579327/undefined/undefined/camera-petisco-oeste?autoplay=true&sound=false
+
+link camera praia guriri (passarela 2): https://gsi.gurisat.com.br/embed/564998/undefined/undefined/camera-passarela-2?autoplay=true&sound=true
+
+link camera praia guriri: https://gsi.gurisat.com.br/embed/563200/undefined/undefined/camera-praia-norte?autoplay=true&sound=true
+
+Link camera guriri centro (em cima do coliseu): https://gsi.gurisat.com.br/embed/564966/undefined/undefined/esquina-drogaria?autoplay=true&sound=true
+
+Link cameras avenida - sm-guriri (otovarino): https://gsi.gurisat.com.br/embed/564961/undefined/undefined/agrorosa-x-guriri?autoplay=true&sound=true
+Link - cameras avenida: https://gsi.gurisat.com.br/embed/564962/undefined/undefined/agrorosa-x-sm?autoplay=true&sound=false
+
+
+Link cameras Rio preto: https://gsi.gurisat.com.br/embed/564967/undefined/undefined/rp-x-sm?autoplay=true&sound=true
+Link cameras rio preto 2: https://gsi.gurisat.com.br/embed/564993/undefined/undefined/rp-x-guriri?autoplay=true&sound=false
+
+Praia de Guriri: https://gsi.gurisat.com.br/embed/583554/undefined/undefined/camera-praia-sul?autoplay=true&sound=false
+Ponte Guriri: https://gsi.gurisat.com.br/embed/565295/undefined/undefined/camera-otovarino-x-sm?autoplay=true&sound=false
+
+Referencia:
+https://www.gurisat.com.br/cameras.html
+https://www.gurisat.com.br/cameras1.html
+https://www.gurisat.com.br/cameras2.html
+
+Exemplo de implementação/ incorporar:
+<iframe width="500" height="300" src="https://gsi.gurisat.com.br/embed/583857/undefined/undefined/centro-sm?autoplay=true&sound=false
+" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Desenvolvido por: Iasmin Marques (@iasminimp) - projeto open source
+Qualquer melhoria que deseja implementar neste codigo estou aberta a implementar junto com você, segue meu e-mail (iasminimp7@gmail.com) e meu github (@iasminimp). Entre em contato ;)
