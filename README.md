@@ -29,7 +29,7 @@ Qualquer melhoria que deseja adicionar neste codigo estou aberta a implementar j
 Entre em contato ;)
 
 ## Acesse o Projeto agora mesmo
-`Clique aqui:` https://cam.iasminmarques.com.br/
+`Clique aqui:` https://cam.iasminmarques.com.br/index2.html
 
 ## Precisa melhorar/ BUG's
 * E-mail -  não está chegando, o contato não funciona;
