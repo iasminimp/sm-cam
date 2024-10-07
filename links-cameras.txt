@@ -30,6 +30,27 @@ https://www.gurisat.com.br/cameras.html
 https://www.gurisat.com.br/cameras1.html
 https://www.gurisat.com.br/cameras2.html
 
+Atualização Link das câmeras - 10/2024
+
+* placa guriri
+https://gsi.gurisat.com.br/embed/770633/undefined/undefined/eu-amo-guriri?autoplay=true&amp;sound=true
+
+* petisco leste
+https://gsi.gurisat.com.br/embed/770634/undefined/undefined/eu-amo-guriri?autoplay=true&amp;sound=true
+
+* sicob
+https://gsi.gurisat.com.br/embed/770635/undefined/undefined/eu-amo-guriri?autoplay=true&amp;sound=true
+
+* cascata 1
+https://gsi.gurisat.com.br/embed/770636/undefined/undefined/eu-amo-guriri?autoplay=true&amp;sound=true
+
+* cascata 2
+https://gsi.gurisat.com.br/embed/770637/undefined/undefined/eu-amo-guriri?autoplay=true&amp;sound=true
+
+* petisco leste
+https://gsi.gurisat.com.br/embed/770638/undefined/undefined/eu-amo-guriri?autoplay=true&amp;sound=true
+
+
 Exemplo de implementação/ incorporar:
 <iframe width="500" height="300" src="https://gsi.gurisat.com.br/embed/583857/undefined/undefined/centro-sm?autoplay=true&sound=false
 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
